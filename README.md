@@ -1,1 +1,1 @@
-# building etherum project using golang
+# Ethereum Concepts Using Golang
